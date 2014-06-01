@@ -24,21 +24,21 @@ The city of Akron is currently pursuing the development of a data collection and
 
 The end product of this initiative will provide a data entry and reporting system that can accurately provide information about city of Akron projects, in a format that addresses the specific question(s) being asked. Once this new information system is complete, our intent is to input data on city of Akron projects dating back to the 1960’s, while also tracking all current and future projects completed by the city of Akron.
 
-#### Solution
+### Solution
 
 Akron Civic Hackathon 2014 will allow City of Akron's Economic Development to gather information from their internal data stores (like Excel files) and submit it to their GIS system from ESRI. This will allow them to select a geographical region on a map and report on how much money was budgeted, forecasted, and finally committed in that region.
 
-
-#### Repo:
+### Repo:
 
 https://github.com/tdfischer/civic-hacking-2014
 
 ## LocalWiki
 
+### Problem 
 
 To generate highly local information about the City of Akron such that any member of the community can edit it and we can all collaborate and maintain it.
 
-## Solution
+### Solution
 
 Migrated the old instance from last year to the final two main localwiki instances this year:
 
