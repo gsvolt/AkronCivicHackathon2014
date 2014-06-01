@@ -32,3 +32,14 @@ Akron Civic Hackathon 2014 will allow City of Akron's Economic Development to ga
 #### Repo:
 
 https://github.com/tdfischer/civic-hacking-2014
+
+## LocalWiki
+
+
+To generate highly local information about the City of Akron such that any member of the community can edit it and we can all collaborate and maintain it.
+
+## Solution
+
+Migrated the old instance from last year to the final two main localwiki instances this year:
+
+* http://localwiki.net/akron
