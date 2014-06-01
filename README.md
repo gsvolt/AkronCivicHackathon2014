@@ -1,6 +1,14 @@
 AkronCivicHackathon2014
 =======================
 
+In Spring of 2014, Akron Civic Hackathon 2014 was organized part of National Day of Civic Hacking.
+
+More information about this event can be found at these places:
+* Event Page on hackforchange.org: http://hackforchange.org/events/akron-civic-hackathon/
+* Event Presentation: https://docs.google.com/presentation/d/1wXOBtirJIef66WwZD1RBvwlqbTeoZRDubNbg-n6IhEk/edit?usp=sharing
+
+The goal of this repo is to archive and collect problem descriptions and deliverables from the event.
+
 ## City of Akron Economic Development Department
 
 ### Problem:
