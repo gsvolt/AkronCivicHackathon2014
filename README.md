@@ -1,9 +1,9 @@
 AkronCivicHackathon2014
 =======================
 
-# City of Akron Economic Development Department
+## City of Akron Economic Development Department
 
-## Problem:
+### Problem:
 
 The ability to accurately track historical project data and project expenditures is a critical function of a planning organization.   Most municipal projects can be classified into a finite number of categories such as transportation, parks, or housing.   During the early phases of a new project, the planning organization is tasked with defining both the both scope, and type, of project to be implemented.   As the project is designed, and then constructed, key information (such as cost, project timeframe, and funding) is documented and stored for future reporting.
 
