@@ -43,3 +43,15 @@ To generate highly local information about the City of Akron such that any membe
 Migrated the old instance from last year to the final two main localwiki instances this year:
 
 * http://localwiki.net/akron
+
+## East Liverpool Fire Department
+
+### Problem
+
+To deploy adopt-a-hydrant in such a way that there isn't a huge budget allocation for it.
+
+### Solution
+
+Volunteers succeeded in following instructions provided by OpenShift and RedHat  https://github.com/openshift-quickstart/adopt-a-hydrant-openshift-quickstart and verified that the application deployed successfully in their local development environments.
+
+The fire department did not participate in person, but plans to share lat/long locations of their fire hydrants that will be inserted on the platform provided by OpenShift. A release will then be planned and announced to the citizens in East Liverpool.
